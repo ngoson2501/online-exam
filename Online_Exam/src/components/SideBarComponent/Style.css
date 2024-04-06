@@ -1,0 +1,47 @@
+.Side-Bar-Navigation{
+    width: 15%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    /* font-family: Nunito-ExtraLight; */
+    font-family: 'Nunito', sans-serif;
+    padding: 20px 0 20px 0px;
+    position: fixed;
+    top:0;
+    overflow-y: auto
+}
+
+
+.Side-Bar-Navigation h3{
+    padding-left: 20px;
+    font-size: 18px;
+    
+    /* font-family: 'Nunito', sans-serif; */
+    margin: 10px 0 5px 0;
+}
+
+
+
+
+
+.Side-Bar-Navigation ul li{
+    padding-left: 20px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    list-style: none;
+    cursor: pointer;
+    color: rgb(43, 43, 43);
+    
+}
+
+
+
+.Side-Bar-Navigation ul li:hover{
+    background-color: rgb(220, 220, 220);
+
+}
+
+
+.Side-Bar-Navigation ul .active {
+    background-color: blue;
+}

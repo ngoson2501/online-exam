@@ -1,0 +1,270 @@
+{
+    "productsssssssssssssss": [
+      {
+        "Images": "https://i.pinimg.com/564x/93/80/68/93806867709558d0ed6d9b1a34bdd1b1.jpg",
+        "Price": "sada",
+        "Name": "cs",
+        "Description": "a hihi",
+        "createdAt": "2023-12-10T16:02:45.493Z",
+        "id": 1
+      },
+      {
+        "Images": "https://i.pinimg.com/564x/93/80/68/93806867709558d0ed6d9b1a34bdd1b1.jpg",
+        "Price": "600.00",
+        "Name": "xãaxasxa",
+        "Description": "",
+        "createdAt": "2023-12-10T16:19:58.825Z",
+        "id": 2
+      },
+      {
+        "Images": "https://i.pinimg.com/564x/93/80/68/93806867709558d0ed6d9b1a34bdd1b1.jpg",
+        "Price": "600.00",
+        "Name": "monky 1",
+        "Description": "",
+        "createdAt": "2023-12-10T16:20:09.848Z",
+        "id": 3
+      },
+      {
+        "Images": "https://i.pinimg.com/564x/93/80/68/93806867709558d0ed6d9b1a34bdd1b1.jpg",
+        "Price": "471.00",
+        "Name": "",
+        "Description": "",
+        "createdAt": "2023-12-10T16:21:06.809Z",
+        "id": 4
+      },
+      {
+        "Title": "đề thi môn lịch sử THPT QG",
+        "Address": "thpt xuân mai",
+        "Date": "13/1/2023",
+        "ExamTime": "90",
+        "QuestionNumber": "40",
+        "id": 5
+      }
+    ],
+    "THI_THPT_QG_Mon_Lich_Suuuuuuuuuuuuu": [
+      {
+        "id": 1,
+        "questions": [
+          {
+            "id": 1,
+            "question": "So với Hiệp hội các quốc gia Đông Nam Á (ASEAN), sự phát triển của Liên minh châu Âu (EU) có điểm khác biệt gì?",
+            "options": [
+              "Hạn chế sự can thiệp và chi phối của các cường quốc.",
+              "Diễn ra quá trình nhật thể hóa trong khuôn khổ khu vực.",
+              "Quá trình hợp tác; mở rộng thành viên diễn ra khá lâu dài.",
+              "Hợp tác, giúp đỡ các nước trong khu vực phát triển kinh tế."
+            ],
+            "answer": "Diễn ra quá trình nhật thể hóa trong khuôn khổ khu vực."
+          },
+          {
+            "id": 2,
+            "question": "Sự sụp đổ của chế độ độc tài thân Mĩ ở khu vực Mĩ Latinh từ nửa sau thế kỉ XX chứng tỏ",
+            "options": [
+              "Thất bại của Mĩ trong việc biên Mĩ Latinh thành sân sau.",
+              "Đánh dấu sự thất bại hoàn toàn của Mĩ trong việc triển khai chiến lược toàn cầu.",
+              "Sự sụp đổ của chế độ thực dân cũ.",
+              "Sự thắng lợi của các Đảng cộng sản."
+            ],
+            "answer": "Thất bại của Mĩ trong việc biên Mĩ Latinh thành sân sau."
+          },
+          {
+            "id": 3,
+            "question": "Sự sụp đổ của chế độ độc tài thân Mĩ ở khu vực Mĩ Latinh từ nửa sau thế kỉ XX chứng tỏ",
+            "options": [
+              "Thất bại của Mĩ trong việc biên Mĩ Latinh thành sân sau.",
+              "Đánh dấu sự thất bại hoàn toàn của Mĩ trong việc triển khai chiến lược toàn cầu.",
+              "Sự sụp đổ của chế độ thực dân cũ.",
+              "Sự thắng lợi của các Đảng cộng sản."
+            ],
+            "answer": "Thất bại của Mĩ trong việc biên Mĩ Latinh thành sân sau."
+          },
+          {
+            "id": 4,
+            "question": "Sự sụp đổ của chế độ độc tài thân Mĩ ở khu vực Mĩ Latinh từ nửa sau thế kỉ XX chứng tỏ",
+            "options": [
+              "Thất bại của Mĩ trong việc biên Mĩ Latinh thành sân sau.",
+              "Đánh dấu sự thất bại hoàn toàn của Mĩ trong việc triển khai chiến lược toàn cầu.",
+              "Sự sụp đổ của chế độ thực dân cũ.",
+              "Sự thắng lợi của các Đảng cộng sản."
+            ],
+            "answer": "Thất bại của Mĩ trong việc biên Mĩ Latinh thành sân sau."
+          },
+          {
+            "id": 5,
+            "question": "Sự sụp đổ của chế độ độc tài thân Mĩ ở khu vực Mĩ Latinh từ nửa sau thế kỉ XX chứng tỏ",
+            "options": [
+              "Thất bại của Mĩ trong việc biên Mĩ Latinh thành sân sau.",
+              "Đánh dấu sự thất bại hoàn toàn của Mĩ trong việc triển khai chiến lược toàn cầu.",
+              "Sự sụp đổ của chế độ thực dân cũ.",
+              "Sự thắng lợi của các Đảng cộng sản."
+            ],
+            "answer": "Thất bại của Mĩ trong việc biên Mĩ Latinh thành sân sau."
+          }
+        ],
+        "info": {
+          "title": "Đề thi thử tốt nghiệp THPT môn lịch sử năm 2022-2023",
+          "address": "Trường THPT Hàm Long Lần 1",
+          "date": "13/07/2023",
+          "examTime": "90",
+          "question_number": "40"
+        }
+      },
+      {
+        "id": 2,
+        "questions": [
+          {
+            "id": 1,
+            "question": "What is 2+2?",
+            "options": [
+              "Cách mạng tư sản",
+              "Cách mạng xã hội chủ nghĩa",
+              "Cách mạng dân chủ tư sản kiểu cũ",
+              "Cách mạng dân tộc dân chủ nhân dân"
+            ],
+            "answer": "Cách mạng dân tộc dân chủ nhân dân"
+          },
+          {
+            "id": 2,
+            "question": "What is 2+2?",
+            "options": [
+              "Cách mạng tư sản",
+              "Cách mạng xã hội chủ nghĩa",
+              "Cách mạng dân chủ tư sản kiểu cũ",
+              "Cách mạng dân tộc dân chủ nhân dân"
+            ],
+            "answer": "Cách mạng dân tộc dân chủ nhân dân"
+          },
+          {
+            "id": 3,
+            "question": "What is 2+2?",
+            "options": [
+              "Cách mạng tư sản",
+              "Cách mạng xã hội chủ nghĩa",
+              "Cách mạng dân chủ tư sản kiểu cũ",
+              "Cách mạng dân tộc dân chủ nhân dân"
+            ],
+            "answer": "Cách mạng dân tộc dân chủ nhân dân"
+          },
+          {
+            "id": 4,
+            "question": "What is 2+2?",
+            "options": [
+              "Cách mạng tư sản",
+              "Cách mạng xã hội chủ nghĩa",
+              "Cách mạng dân chủ tư sản kiểu cũ",
+              "Cách mạng dân tộc dân chủ nhân dân"
+            ],
+            "answer": "Cách mạng dân tộc dân chủ nhân dân"
+          },
+          {
+            "id": 5,
+            "question": "What is 2+2?",
+            "options": [
+              "Cách mạng tư sản",
+              "Cách mạng xã hội chủ nghĩa",
+              "Cách mạng dân chủ tư sản kiểu cũ",
+              "Cách mạng dân tộc dân chủ nhân dân"
+            ],
+            "answer": "Cách mạng dân tộc dân chủ nhân dân"
+          },
+          {
+            "id": 6,
+            "question": "What is 2+2?",
+            "options": [
+              "Cách mạng tư sản",
+              "Cách mạng xã hội chủ nghĩa",
+              "Cách mạng dân chủ tư sản kiểu cũ",
+              "Cách mạng dân tộc dân chủ nhân dân"
+            ],
+            "answer": "Cách mạng dân tộc dân chủ nhân dân"
+          }
+        ],
+        "info": {
+          "title": "Đề thi thử tốt nghiệp THPT môn lịch sử năm 2022-2023",
+          "address": "Trường THPT Hàm Long Lần 2",
+          "date": "13/07/2023",
+          "examTime": "90",
+          "question_number": "40"
+        }
+      },
+      {
+        "id": 3,
+        "subject": "History",
+        "questions": [
+          {
+            "id": 1,
+            "question": "What is 2+2?",
+            "options": [
+              "Cách mạng tư sản",
+              "Cách mạng xã hội chủ nghĩa",
+              "Cách mạng dân chủ tư sản kiểu cũ",
+              "Cách mạng dân tộc dân chủ nhân dân"
+            ],
+            "answer": "Cách mạng dân tộc dân chủ nhân dân"
+          },
+          {
+            "id": 2,
+            "question": "What is 2+2?",
+            "options": [
+              "Cách mạng tư sản",
+              "Cách mạng xã hội chủ nghĩa",
+              "Cách mạng dân chủ tư sản kiểu cũ",
+              "Cách mạng dân tộc dân chủ nhân dân"
+            ],
+            "answer": "Cách mạng dân tộc dân chủ nhân dân"
+          },
+          {
+            "id": 3,
+            "question": "What is 2+2?",
+            "options": [
+              "Cách mạng tư sản",
+              "Cách mạng xã hội chủ nghĩa",
+              "Cách mạng dân chủ tư sản kiểu cũ",
+              "Cách mạng dân tộc dân chủ nhân dân"
+            ],
+            "answer": "Cách mạng dân tộc dân chủ nhân dân"
+          },
+          {
+            "id": 4,
+            "question": "What is 2+2?",
+            "options": [
+              "Cách mạng tư sản",
+              "Cách mạng xã hội chủ nghĩa",
+              "Cách mạng dân chủ tư sản kiểu cũ",
+              "Cách mạng dân tộc dân chủ nhân dân"
+            ],
+            "answer": "Cách mạng dân tộc dân chủ nhân dân"
+          },
+          {
+            "id": 5,
+            "question": "What is 2+2?",
+            "options": [
+              "Cách mạng tư sản",
+              "Cách mạng xã hội chủ nghĩa",
+              "Cách mạng dân chủ tư sản kiểu cũ",
+              "Cách mạng dân tộc dân chủ nhân dân"
+            ],
+            "answer": "Cách mạng dân tộc dân chủ nhân dân"
+          },
+          {
+            "id": 6,
+            "question": "What is 2+2?",
+            "options": [
+              "Cách mạng tư sản",
+              "Cách mạng xã hội chủ nghĩa",
+              "Cách mạng dân chủ tư sản kiểu cũ",
+              "Cách mạng dân tộc dân chủ nhân dân"
+            ],
+            "answer": "Cách mạng dân tộc dân chủ nhân dân"
+          }
+        ],
+        "info": {
+          "title": "Đề thi thử tốt nghiệp THPT môn lịch sử năm 2022-2023",
+          "address": "Trường THPT Hàm Long Lần 3",
+          "date": "13/07/2023",
+          "examTime": "90",
+          "question_number": "40"
+        }
+      }
+    ]
+  }

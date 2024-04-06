@@ -1,0 +1,23 @@
+
+.box-content-side-bar{
+    display: flex;
+}
+
+.box-side-bar{
+    width:15% ;
+    height: 100vh;
+    background-color: cadetblue;
+    /* position: fixed; */
+}
+
+
+
+
+.content-main{
+    width:85% ;
+    height: auto;
+    /* background-color: rgb(234, 255, 0); */
+}
+
+
+

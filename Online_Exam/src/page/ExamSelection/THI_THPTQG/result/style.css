@@ -1,0 +1,106 @@
+/****************************************box-result************************/
+
+
+.result{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Nunito', sans-serif;
+   
+}
+
+.box-result{
+    background-color: #ffffff;
+    border-radius: 6px;
+    border: solid 1px rgb(203, 203, 203);
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 0 20px 0;
+}
+
+
+.info-result{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: auto;
+   /*  background-color: aqua; */
+}
+
+.info-result>p{   
+    text-align: center;
+
+}
+
+
+.box-list-result-question{
+    width: 100%;
+    height: auto;
+   /*  background-color: rgb(234, 115, 115); */
+
+
+    padding: 20px 0 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box-list-result-question li{
+    list-style: none;
+    width: 60px;
+    margin: 3px;
+    text-align: center;
+    background-color: rgb(230, 230, 246);
+    /* background-color: rgb(84, 84, 231); */
+    padding: 10px 0 10px 0;
+    cursor: pointer;
+    border-radius: 10px;
+    border: solid 1px rgb(203, 203, 203);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box-result>div:last-child{
+    width: 100%;
+    height: auto;
+    /* background-color: rgb(247, 78, 78); */
+    display: flex;
+    justify-content:space-around
+}
+
+
+.box-result>div:last-child>button{
+    width: 200px;
+    padding: 10px 20px 10px 20px;
+}
+
+.box-result>div:last-child>button:last-child{
+    background-color: rgb(52, 52, 169);
+   
+}
+
+.box-result>div:last-child>button:last-child:hover{
+    
+    color: #e9e9e9;
+}
+
+
+.info-result p{
+
+
+}

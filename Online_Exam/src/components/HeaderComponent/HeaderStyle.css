@@ -1,0 +1,230 @@
+/* @import '/src/assets/fonts.css'; */
+#box-header{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    /* font-family: Nunito-ExtraLight; */
+    font-family: 'Nunito', sans-serif;
+    position: relative;
+    /* position: relative; */
+}
+
+#logo{
+    width: 200px;
+    height: 100%;
+   /*  background-color: aqua; */
+    padding: 10px;
+    /* background-image:url('src/assets/images/logo_1.png');
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center; */
+}
+
+
+#logo-content{
+    width: 100%;
+    height: 100%;
+   /*  background-color: rgb(212, 153, 65); */
+    background-image:url('/src/assets/images/logo_1.png');
+    background-repeat: no-repeat;
+    background-size:contain; 
+    background-position: center;
+}
+
+
+
+
+
+
+
+#box-nav{
+    width: 700px;
+    height: 100%;
+    /* background-color: rgb(91, 240, 103); */
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    font-size: 13px;
+    font-weight: 600;
+
+   
+    
+}
+
+
+.nav-list{
+    /* background-color: rebeccapurple; */
+    width: auto;
+    height: 100%;
+    margin:0 10px 0px 10px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.nav-list-item{
+   /*  background-color: rgb(138, 138, 231); */
+    justify-content: center;
+    align-items: center;
+    height:100% ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+   
+    
+
+    
+}
+
+.nav-list-item a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.nav-list-item a.list-item p{
+    text-align: center;
+}
+
+
+
+/* .nav-list-item:hover a {
+    border-bottom: 3px solid blue;
+}
+
+
+.nav-list-item:hover .category-content {
+    border-bottom: none;
+} */
+
+/* Khi hover vào phần tử .nav-list-item, đặt đường viền dưới cho phần tử <a> */
+.nav-list-item a.list-item {
+    text-decoration: none;
+    color: black;
+    border-bottom: 3px solid transparent; /* Bắt đầu với đường viền dưới trong suốt */
+    transition: border-bottom 0.3s ease; /* Thêm hiệu ứng transition */
+  }
+  
+  /* Khi hover vào phần tử .nav-list-item, thay đổi đường viền dưới thành màu blue */
+  .nav-list-item:hover a.list-item {
+    border-bottom: 3px solid rgb(48, 84, 191);
+  }
+  
+  /* Khi hover vào phần tử .nav-list-item, thay đổi chiều dài của .category-content */
+  .nav-list-item:hover .category-content {
+    max-height: 300px; /* Đặt chiều cao tối đa, bạn có thể điều chỉnh giá trị này */
+    transition: max-height 0.5s ease; /* Thêm hiệu ứng transition */
+  }
+  
+  /* Mặc định ẩn .category-content và thực hiện hiệu ứng transition */
+  .category-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease; /* Thêm hiệu ứng transition */
+  }
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+.category-content {
+    width: 700px;
+    height: auto;
+    position: absolute;
+    top:100%;
+    left: 50%; 
+    transform: translateX(-50%); 
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px 5px 7px  rgba(0, 0, 0, 0.2);
+    z-index: 10;
+    border-radius: 5px;
+  }
+
+
+.category-content table{
+    /* background-color: aqua; */
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.category-content table tbody tr{
+    /* background-color: cadetblue; */
+    display: flex;
+    /* justify-content: space-between; */
+    /* margin: 10px; */
+    
+}
+
+
+.category-content table tbody td {
+    flex: 1; /* Ô tự mở rộng theo chiều ngang */
+    padding: 10px; /* Để lại khoảng trắng bên trong ô */
+    text-align: left;
+    /* Thêm đường viền để phân biệt các ô */
+    font-size: 12px;
+    cursor: pointer;
+    
+}
+
+
+.category-content table tbody td .Item:hover{
+    color: rgb(48, 84, 191);
+   
+}
+
+
+
+
+
+#login-logout{
+    /* background-color: rgb(187, 118, 118); */
+    width: 200px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+
+}
+
+
+.login{
+    width: 80%;
+    height: 40px;
+    background-color: rgb(125, 197, 236);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    border-radius: 50px;
+    cursor: pointer;
+    
+   
+}
+
+.login a{
+    font-size: 15px;
+    font-weight: 700;
+   
+    color: rgb(41, 61, 121);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

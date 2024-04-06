@@ -1,0 +1,311 @@
+{
+  "user": [
+    {
+      "Name": "son 12321",
+      "Email": "ngothecaoson@gmail.com",
+      "Password": "111",
+      "createdAt": "2024-01-05T19:25",
+      "id": 1
+    },
+    {
+      "Name": "Ngô Thế Cao Sơn",
+      "Email": "ngothecaoson@gmail.com",
+      "Password": "befrys-6muqMe-disbin",
+      "createdAt": "2024-04-04T23:11",
+      "id": 2
+    }
+  ],
+  "THI_THPT_QG_Mon_Lich_Su": [
+    {
+      "id": 1,
+      "Title": "Đề thi thử tốt nghiệp THPT môn Lịch sử năm 2023-2024",
+      "Address": "Hà Nội, THPT Xuân Mai",
+      "Date": "25/3/2023",
+      "ExamTime": "1",
+      "QuestionNumber": "40",
+      "Questions": [
+        {
+          "id": "1",
+          "question": "Chiến lược Chiến tranh đặc biệt (1961-1965) của Mĩ ở miền Nam Việt Nam được tiến hành bằng lực lượng nào sau đây?",
+          "options": [
+            "Quân đội Bồ Đào Nha.",
+            "Quân đội Nhật Bản.",
+            "Quân đội Tây Ban Nha.",
+            "Quân đội Sài Gòn."
+          ],
+          "answer": "Quân đội Sài Gòn."
+        },
+        {
+          "id": "2",
+          "question": "Trong phong trào giải phóng dân tộc 1939-1945, nhân dân Việt Nam có hoạt động nào sau đây?",
+          "options": [
+            "Xây dựng Khu giải phóng Việt Bắc.",
+            "Tiến công quân Mĩ ở An Lão.",
+            "Tiến công quân Mĩ ở Ba Gia.",
+            "Tiến công quân Mĩ ở Đồng Xoài."
+          ],
+          "answer": "Xây dựng Khu giải phóng Việt Bắc."
+        },
+        {
+          "id": "3",
+          "question": "Năm 1986, Việt Nam bắt đầu công cuộc đổi mới trong bối cảnh nào sau đây?",
+          "options": [
+            "Chiến tranh thế giới thứ nhất bùng nổ.",
+            "Đất nước lâm vào tình trạng khủng hoảng.",
+            "Chiển tranh thế giới thứ hai bùng nố.",
+            "Chiến tranh thế giới thứ nhất kết thúc."
+          ],
+          "answer": "Chiển tranh thế giới thứ hai bùng nố."
+        },
+        {
+          "id": "4",
+          "question": "Ngay sau Cách mạng tháng Tám năm 1945, nước Việt Nam Dân chủ Cộng hòa đứng trước khó khăn nào sau đây?",
+          "options": [
+            "Nạn đói chua được đẩy lùi.",
+            "Nhật xâm lược trở lại Đông Dương.",
+            "Pháp phá hoại Hiệp định Giơnevơ.",
+            "Dịch Covid-19 bùng phát."
+          ],
+          "answer": "Nạn đói chua được đẩy lùi."
+        },
+        {
+          "id": "5",
+          "question": "Trong thập niên 90 của thế kỉ XX, quốc gia nào sau đây có nền kinh tế đứng đầu thế giới?",
+          "options": [
+            "Hi Lạp.",
+            "Mĩ.",
+            "Triều Tiên.",
+            "Ai Cập."
+          ],
+          "answer": "Mĩ."
+        },
+        {
+          "id": "6",
+          "question": "Sự ra đời của Tổ chức Thương mại Thế giới (WTO) là một trong những biểu hiện của",
+          "options": [
+            "Xu thế toàn cầu hóa.",
+            "Chủ nghĩa li khai.",
+            "Chiến tranh thế giới.",
+            "Chiến tranh lạnh."
+          ],
+          "answer": "Xu thế toàn cầu hóa."
+        },
+        {
+          "id": "7",
+          "question": "Các xô viết ở Nghệ An, Hà Tĩnh ra đời trong phong trào nào sau đây?",
+          "options": [
+            "Phong trào dân tộc dân chủ 1919-1925.",
+            "Phong trào dân chủ 1936-1939.",
+            "Phong trào giải phóng dân tộc 1939-1945.",
+            "Phong trào cách mạng 1930-1931."
+          ],
+          "answer": "Phong trào cách mạng 1930-1931."
+        },
+        {
+          "id": "8",
+          "question": "Từ năm 1959 đến năm 1960, nhân dân miền Nam Việt Nam nổi dậy chống Mĩ-Diệm trong phong trào nào sau đây?",
+          "options": [
+            "Đồng khởi.",
+            "Xóa nạn mù chữ.",
+            "Duy tân.",
+            "Tuần lễ vàng."
+          ],
+          "answer": "Đồng khởi."
+        },
+        {
+          "id": "9",
+          "question": "Sau chiến thắng Đường 14-Phước Long đầu năm 1975 của quân dân miền Nam Việt Nam, Mĩ có phản ứng nào sau đây?",
+          "options": [
+            "Tiến công lên Việt Bắc.",
+            "Tiến công lên Đông Khê.",
+            "Dùng áp lực đe dọa từ xa.",
+            "Tiến công lên Tây Bắc."
+          ],
+          "answer": "Tiến công lên Đông Khê."
+        },
+        {
+          "id": "10",
+          "question": "Trong chiến lược Chiến tranh cục bộ (1965-1968) ở miền Nam Việt Nam, quân Mĩ thất bại khi tiến hành cuộc hành quân \"tìm diệt\" vào địa bàn nào sau đây?",
+          "options": [
+            "Vạn Tường.",
+            "Hà Nam.",
+            "Thanh Hóa.",
+            "Ninh Bình."
+          ],
+          "answer": "Vạn Tường."
+        }
+      ]
+    },
+    {
+      "Title": "Đề minh họa tốt nghiệp THPT năm 2023 môn Lịch sử",
+      "Address": "Bộ GD&DT",
+      "Date": "18/03/2023",
+      "ExamTime": "90",
+      "QuestionNumber": "40",
+      "Questions": [
+        {
+          "id": "1",
+          "question": "Chiến lược Chiến tranh đặc biệt (1961-1965) của Mĩ ở miền Nam Việt Nam được tiến hành bằng lực lượng nào sau đây?",
+          "options": [
+            "Quân đội Bồ Đào Nha.",
+            "Quân đội Nhật Bản.",
+            "Quân đội Tây Ban Nha.",
+            "Quân đội Sài Gòn."
+          ],
+          "answer": "Quân đội Sài Gòn."
+        },
+        {
+          "id": "2",
+          "question": "Trong phong trào giải phóng dân tộc 1939-1945, nhân dân Việt Nam có hoạt động nào sau đây?",
+          "options": [
+            "Xây dựng Khu giải phóng Việt Bắc.",
+            "Tiến công quân Mĩ ở An Lão.",
+            "Tiến công quân Mĩ ở Ba Gia.",
+            "Tiến công quân Mĩ ở Đồng Xoài."
+          ],
+          "answer": "Xây dựng Khu giải phóng Việt Bắc."
+        },
+        {
+          "id": "3",
+          "question": "Năm 1986, Việt Nam bắt đầu công cuộc đổi mới trong bối cảnh nào sau đây?",
+          "options": [
+            "Chiến tranh thế giới thứ nhất bùng nổ.",
+            "Đất nước lâm vào tình trạng khủng hoảng.",
+            "Chiển tranh thế giới thứ hai bùng nố.",
+            "Chiến tranh thế giới thứ nhất kết thúc."
+          ],
+          "answer": "Chiển tranh thế giới thứ hai bùng nố."
+        },
+        {
+          "id": "4",
+          "question": "Ngay sau Cách mạng tháng Tám năm 1945, nước Việt Nam Dân chủ Cộng hòa đứng trước khó khăn nào sau đây?",
+          "options": [
+            "Nạn đói chua được đẩy lùi.",
+            "Nhật xâm lược trở lại Đông Dương.",
+            "Pháp phá hoại Hiệp định Giơnevơ.",
+            "Dịch Covid-19 bùng phát."
+          ],
+          "answer": "Nạn đói chua được đẩy lùi."
+        },
+        {
+          "id": "5",
+          "question": "Trong thập niên 90 của thế kỉ XX, quốc gia nào sau đây có nền kinh tế đứng đầu thế giới?",
+          "options": [
+            "Hi Lạp.",
+            "Mĩ.",
+            "Triều Tiên.",
+            "Ai Cập."
+          ],
+          "answer": "Mĩ."
+        }
+      ],
+      "id": 2
+    },
+    {
+      "Title": "Đề thi thử tốt nghiệp THPT môn Lịch sử năm 2023-2024",
+      "Address": "Trường THPT Ninh Giang Lần 1",
+      "Date": "20/3/2023",
+      "ExamTime": "90",
+      "QuestionNumber": "40",
+      "Questions": [],
+      "id": 3
+    },
+    {
+      "id": 4,
+      "Title": "Đề thi thử tốt nghiệp THPT môn Lịch sử năm 2023-2024",
+      "Address": "Trường THPT Nguyễn Trãi",
+      "Date": "21/3/2023",
+      "ExamTime": "90",
+      "QuestionNumber": "40",
+      "Questions": [
+        {
+          "id": "1",
+          "question": "Chiến lược Chiến tranh đặc biệt (1961-1965) của Mĩ ở miền Nam Việt Nam được tiến hành bằng lực lượng nào sau đây?",
+          "options": [
+            "Quân đội Bồ Đào Nha.",
+            "Quân đội Nhật Bản.",
+            "Quân đội Tây Ban Nha.",
+            " svdjsksdfbskf"
+          ],
+          "answer": "Quân đội Tây Ban Nha."
+        },
+        {
+          "id": "2",
+          "question": "Chiến lược Chiến tranh đặc biệt (1961-1965) của Mĩ ở miền Nam Việt Nam được tiến hành bằng lực lượng nào sau đây?",
+          "options": [
+            "Quân đội Bồ Đào Nha.",
+            "Quân đội Nhật Bản.",
+            "Quân đội Tây Ban Nha.",
+            " svdjsksdfbskf"
+          ],
+          "answer": "Quân đội Tây Ban Nha."
+        },
+        {
+          "id": "3",
+          "question": "Chiến lược Chiến tranh đặc biệt (1961-1965) của Mĩ ở miền Nam Việt Nam được tiến hành bằng lực lượng nào sau đây?",
+          "options": [
+            "Quân đội Bồ Đào Nha.",
+            "Quân đội Nhật Bản.",
+            "Quân đội Tây Ban Nha.",
+            " svdjsksdfbskf"
+          ],
+          "answer": "Quân đội Tây Ban Nha."
+        },
+        {
+          "id": "4",
+          "question": "Chiến lược Chiến tranh đặc biệt (1961-1965) của Mĩ ở miền Nam Việt Nam được tiến hành bằng lực lượng nào sau đây?",
+          "options": [
+            "i Bồ Đào Nha.",
+            "Nhật Bản.",
+            "Tây Ban Nha.",
+            " svdjsksdfbskf"
+          ],
+          "answer": "Quân đội Tây Ban Nha."
+        }
+      ]
+    },
+    {
+      "Title": "đề thi môn lịch sử THPT QG",
+      "Address": "Văn Phú, Hoàng Văn Thụ, Chương Mỹ, Hà Nội",
+      "Date": "13/1/2023",
+      "ExamTime": "90",
+      "QuestionNumber": "40",
+      "Questions": [
+        {
+          "id": "1",
+          "question": "Chiến lược Chiến tranh đặc biệt (1961-1965) của Mĩ ở miền Nam Việt Nam được tiến hành bằng lực lượng nào sau đây?",
+          "options": [
+            "i Bồ Đào Nha.",
+            "Nhật Bản.",
+            "Tây Ban Nha.",
+            "sơnnnnnnnnnn"
+          ],
+          "answer": "Quân đội Tây Ban Nha."
+        },
+        {
+          "id": "2",
+          "question": "Chiến lược Chiến tranh đặc biệt (1961-1965) của Mĩ ở miền Nam Việt Nam được tiến hành bằng lực lượng nào sau đây?",
+          "options": [
+            "i Bồ Đào Nha.",
+            "Nhật Bản.",
+            "Tây Ban Nha.",
+            "sơnnnnnnnnnn"
+          ],
+          "answer": "Quân đội Tây Ban Nha."
+        },
+        {
+          "id": "20",
+          "question": "Chiến lược Chiến tranh đặc biệt (1961-1965) của Mĩ ở miền Nam Việt Nam được tiến hành bằng lực lượng nào sau đây?",
+          "options": [
+            "i Bồ Đào Nha.",
+            "Nhật Bản.",
+            "Tây Ban Nha.",
+            "sơnnnnnnnnnn"
+          ],
+          "answer": "Quân đội Tây Ban Nha."
+        }
+      ],
+      "id": 5
+    }
+  ]
+}

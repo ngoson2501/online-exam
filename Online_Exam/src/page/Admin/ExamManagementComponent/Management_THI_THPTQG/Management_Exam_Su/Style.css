@@ -1,0 +1,235 @@
+.UserManagement{
+    width: 100%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    padding: 30px 50px 0 50px;
+   /* position: relative; */
+   font-family: 'Nunito', sans-serif;
+   
+}
+
+h2{
+
+  /* font-family: 'Nunito', sans-serif; */
+    
+    font-size: 30px;
+    padding: 20px 0 20px 0;
+}
+
+.box-input{
+    width: 100%;
+    height: 50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    
+}
+
+.box-input a{
+    text-decoration: none;
+    background-color: rgb(75, 59, 221);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    /* font-family: 'Nunito', sans-serif; */
+    font-size: 14px;
+}
+
+.box-input a:hover{
+    background-color: rgb(58, 43, 196);
+}
+
+
+
+
+
+  
+.box-table-user {
+    overflow-x: auto;
+    margin-bottom: 50px;
+    height: 60vh;
+  }
+  
+.box-table-user table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    
+    /* font-family: 'Nunito', sans-serif; */
+  }
+  
+.box-table-user table th {
+    border: 1px solid #c6c6c6;
+    padding: 8px;
+    text-align: left;
+   
+  }
+.box-table-user table  td {
+    border: 1px solid #c6c6c6;
+    padding: 8px;
+    text-align: left;
+   
+    /* font-family: 'Nunito', sans-serif; */
+    
+  }
+
+.img-product{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+
+
+.box-table-user table th {
+    background-color: #ffffff;
+  }
+  
+.box-table-user table tr {
+    background-color: #ffffff;
+  }
+  
+
+.box-table-user table  tr:nth-child(1){
+    border-bottom: solid 2px #c6c6c6;
+  }
+
+
+  button {
+    padding: 5px 10px;
+    background-color: #ffb83c;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 15px;
+  }
+  
+  button:hover {
+    color: rgb(74, 54, 188);
+  }
+  
+  /* Responsive styles for small screens */
+  @media only screen and (max-width: 600px) {
+    .table-list-user th,td {
+      font-size: 14px;
+    }
+  
+    .table-list-user button {
+      font-size: 12px;
+    }
+  }
+  
+
+
+/*-------------------------------------------box-form------------------------------------------------------------*/
+  
+  .box-form {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Màu nền đen với độ trong suốt */
+    z-index: 2; /* Đảm bảo box-form nằm trên cùng */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-user{
+    width: 400px;
+    height: auto;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    border-radius: 8px;
+}
+
+
+.form-user>div{
+    /* background-color: #49ff3c; */
+    width: 100%;
+    padding: 0 20px 0 20px;
+    margin-bottom: 15px;
+}
+
+
+.form-user>div>p{
+    margin-bottom: 5px;
+    /* font-family: sans-serif; */
+}
+
+
+.form-user div:nth-child(1){
+    margin-bottom: 20px;
+}
+
+.form-user div:nth-child(1) h2{
+    text-align: center;
+}
+
+.form-user>div>input{
+    width: 100%;
+    height: 30px;
+    padding: 0 10px 0 10px;
+    border: 1px solid rgb(226, 226, 226);
+    font-family: 'Nunito', sans-serif;
+    /* font-family: 'Nunito', sans-serif; */
+    border-radius: 3px;
+}
+
+.form-user div:last-child{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    
+}
+
+.form-user div:last-child button{
+    width: 150px;
+    padding: 10px 0 10px 0;
+}
+
+.form-user div:last-child button:last-child{
+    background-color: rgba(215, 70, 70, 0);
+    border: 1px solid rgb(215, 70, 70);
+    color: rgb(215, 70, 70);
+}
+
+.form-user div:last-child button:last-child:hover{
+    background-color: rgb(215, 70, 70);
+    color: white;
+}
+
+
+
+
+/* .form-user div:nth-child(even){
+    
+} */
+
+
+
+/*******************************Add Question****************************************************************************************************************************/
+
+
+
+
+/********************************Table List Question***************************************************************************************/
+
+.option-question:nth-child(1){
+  border-bottom: solid 1px #c6c6c6;
+  
+}
+.option-question{
+  border-bottom: solid 1px #c6c6c6;
+  background-color: red;
+}
